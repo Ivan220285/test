@@ -41,7 +41,7 @@ body{
     width: 100%;
  }
 
-p {
+p, strong {
     text-indent: 20px;
   }
 
